@@ -2,3 +2,7 @@ body {
     background-color: blueviolet;
     color:darkgray;
 }
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
